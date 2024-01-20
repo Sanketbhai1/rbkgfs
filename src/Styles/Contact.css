@@ -1,0 +1,87 @@
+/* Add this to your existing CSS */
+.contactus-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 150vh; /* Adjust the height as needed */
+}
+
+.contact-leftside {
+  text-align: center;
+}
+
+.contact-leftside h1 {
+  color: #333; /* Text color */
+}
+
+.contact-rightside form {
+  background-color: #fff; /* White background color */
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 600px; /* Adjust the maximum width as needed */
+}
+
+.contact-input-feild {
+  margin-bottom: 2rem;
+}
+
+.contact-rightside form .form-control {
+  border: 1px solid #ced4da;
+  /* webkit-appearance: none; */
+  height: 3rem;
+  border-radius: 5px;
+  font-size: 1rem;
+  padding-left: 1rem;
+  width: 100%;
+}
+
+.form-checkbox-style {
+  margin: 2rem 0;
+}
+
+.contact-rightside form .main-hero-para {
+  font-size: 1rem;
+  color: #333; /* Text color */
+  margin: 0;
+  font-weight: lighter;
+}
+
+.btn-style {
+  background-color: #3873ff
+  ; /* Sky Blue color */
+  color: #fff; /* Text color */
+  border: none;
+  font-size: 1.2rem; /* Increase the font size */
+  padding: 1rem 2rem; /* Increase the padding */
+  display: block;
+  margin: 0 auto; /* Center the button */
+}
+
+.btn-style:hover {
+  background-color: #2154b4; /* Darker Sky Blue color on hover */
+}
+
+/* Add this to your existing CSS */
+.form-checkbox-style {
+  margin: 2rem 0;
+  display: flex;
+  align-items: center;
+}
+
+.contact-rightside form .form-check-input {
+  margin-right: 0.5rem; /* Adjust the margin as needed */
+  width: 1.2rem; /* Adjust the width */
+  height: 1rem; /* Adjust the height */
+}
+
+.form-check-label.main-hero-para {
+  margin: 0;
+  font-size: 1rem; /* Adjust the font size */
+}
+/* Add this to your existing CSS */
+.contact-rightside form .contact-input-feild .react-tel-input input {
+  padding-left: 45px; /* Adjust the padding as needed */
+}
+  
