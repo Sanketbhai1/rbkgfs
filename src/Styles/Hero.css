@@ -6,6 +6,15 @@
     gap: 24px;
     background:#fff;
 }
+
+/* Add this to your stylesheet */
+.hero-background {
+    background-image: url('../Assets/heroimg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
 /* Text section */
 .text-section {
     width: 60%;

@@ -92,6 +92,8 @@ function Navbar() {
         <a class="dropdown-item" href="/unvoice">Invoice Financing</a>
         <a class="dropdown-item" href="/cash">Merchant Cash Advance</a>
         <a class="dropdown-item" href="/overseas">Overseas Financing</a>
+        <a class="dropdown-item" href="/T">Tradefinance</a>
+
         {/* <div class="dropdown-divider"></div>
         <a class="dropdown-item" href="#">Separated link</a> */}
       </div>
@@ -214,4 +216,4 @@ function Navbar() {
   );
 }
 
-export default Navbar;
+export default Navbar; 

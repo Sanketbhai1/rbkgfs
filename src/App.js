@@ -19,6 +19,7 @@ import Research from "./Components/Research";
 import Reviews from "./Components/Reviews";
 import FAQ from "./Components/Faq";
 import Overseas from "./Components/Overseas";
+import Tradefinance from "./Components/Tradefinance";
 
 
 function App() {
@@ -37,6 +38,8 @@ function App() {
           <Route path="/unvoice" element={<Unvoice />} />
           <Route path="/cash" element={<Cash />} />
           <Route path="/overseas" element={<Overseas />} />
+          <Route path="/T" element={<Tradefinance />} />
+          
 
           <Route path="/consulting" element={<Consulting/>} />
           <Route path="/research" element={<Research />} />

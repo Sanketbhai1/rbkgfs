@@ -8,6 +8,7 @@ import Reviews from "../Components/Reviews";
 // import Doctors from "../Components/Doctors";
 import Footer from "../Components/Footer";
 import Consulting from "../Pages/Consulting"
+import HeroSolution from "../Components/HeroSolustion";
 
 function Home() {
   return (
@@ -16,9 +17,12 @@ function Home() {
       <Hero />
       {/* <Info />
       <About />
+      
       <Consulting/> */}
+      {/* <HeroSolution/> */}
       <BookAppointment />
-      <Reviews />
+      <Reviews /> 
+      
       {/* <Doctors /> */}
       {/* <Footer /> */}
     

@@ -1,5 +1,5 @@
 .footer-section {
-    background-color: #1B2433;
+    background-color:#f9fafc;
 }
 .footer-container {
     padding: 40px;
@@ -24,6 +24,7 @@
 
 .ft-logo {
     max-height: 80px;
+    
      /* Adjust the maximum height of the logo */
     /* Add any additional styling for the logo */
 }
@@ -36,25 +37,25 @@
 .ft-description {
     width: 420px;
     margin: 16px 0 40px;
-    color: #D0D3DA;
+    color: #3e4757;
     font-family: 'Rubik', sans-serif;
-    font-size: 20px;
+    font-size: 17px;
     letter-spacing: .8px;
     line-height: 1.7rem;
 }
 .ft-input-title {
-    color: white;
+    color: #3e4757;
     font-family: 'Rubik', sans-serif;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: bold;
     letter-spacing: .8px;
 }
 .ft-input {
-    width: 300px;
+    width: 200px;
     margin: 20px 8px 0 0;
     padding: 16px 22px;
-    color: white;
-    background-color: #293241;
+    color: rgb(14, 13, 13);
+    background-color:#ffffff;
     border: 1px solid transparent;
     border-radius: 50px;
     outline: transparent;
@@ -66,7 +67,7 @@
     padding: 14px 18px;
     color: white;
     border: 2px solid transparent;
-    border-radius: 50px;
+    border-radius: 40px;
     outline: transparent;
     background-color: #3873ff;
     font-size: 18px;
@@ -84,7 +85,7 @@
 .ft-list-title {
     margin: 16px 0;
     font-family: 'Rubik', sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
     letter-spacing: .8px;
 }
@@ -93,7 +94,7 @@
 }
 .ft-list-items li a {
     text-decoration: none;
-    color: #a5a7ac;
+    color: #3e4757;
     padding: 0 0 2px 0;
     border-bottom: 2px dotted transparent;
     transition: border .2s ease;
@@ -101,7 +102,7 @@
 .ft-list-items li {
     margin: 24px 0;
     font-family: 'Rubik', sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
     letter-spacing: .8px;
 }
@@ -116,7 +117,7 @@
     align-items: center;
     color: #cbcdd3;
     font-family: 'Rubik', sans-serif;
-    font-size: 18px;
+    font-size: 10px;
     font-weight: bold;
     letter-spacing: .8px;
 }
