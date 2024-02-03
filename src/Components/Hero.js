@@ -32,7 +32,7 @@ function Hero() {
     <div className="section-container">
       <div className="hero-section">
         <div className="text-section">
-          <p className="text-headline">❤️ Empower, Invest, Thrive.</p>
+          <p className="text-headline"> Empower, Invest, Thrive.</p>
           <h2 className="text-title">
             Empowering Your Financial Journey Online.
           </h2>
