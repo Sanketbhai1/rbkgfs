@@ -37,7 +37,7 @@ function Reviews() {
           More over <span className="rw-text-num">1500+ Customers</span>
         </p> */}
 
-        <p className="rw-text-desc">Our Happy Clients </p>
+        <p className="rw-text-desc">"Our Happy Clients" </p>
 
         <p className="rw-text-format">
           <span className="rw-text-quote1">''</span>
